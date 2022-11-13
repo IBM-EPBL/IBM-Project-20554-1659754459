@@ -1,7 +1,7 @@
 
-        PROJECT NAME     : Personal Expense Tracker Application
-        TECHNOLOGY       : Cloud Application
-        TEAM ID          : PNT2022TMID22399
+       PROJECT NAME     : Personal Expense Tracker Application
+       TECHNOLOGY       : Cloud Application
+       TEAM ID          : PNT2022TMID22399
         
        TEAM MEMBERS
         
