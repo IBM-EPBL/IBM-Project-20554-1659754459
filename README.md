@@ -1,19 +1,26 @@
 
 PROJECT NAME : PERSONAL EXPENSE TRACKER APPLICATION
+
 TECHNOLOGY   : Cloud Application
+
 TEAM ID      : PNT2022TMID22399
        
 TEAM LEAD :
      AFROSE AAFRIN M
+     
 TEAM MEMBERS :
      HEMALATHA V
      MANISHA P
      SHAMITHA S
      
 INDUSTRY MENTOR: Khusboo
+
 FACULTY MENTOR : S.Leopauline
+
 COLLEGE : Vel Tech Multi Tech Dr Rangarajan Dr Sakunthala Engineering College
+
 DEGREE  : Bachelor of Engineering
+
 BRANCH  : Electronics and Communication Engineering
 
 
